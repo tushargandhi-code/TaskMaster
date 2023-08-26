@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TaskMaster/static/css/main.ebe603b0.css",
+    "main.js": "/TaskMaster/static/js/main.2d8bdac1.js",
+    "static/js/787.63e47474.chunk.js": "/TaskMaster/static/js/787.63e47474.chunk.js",
+    "static/media/to.png": "/TaskMaster/static/media/to.d337b1adfadb7ea55f88.png",
+    "index.html": "/TaskMaster/index.html",
+    "main.ebe603b0.css.map": "/TaskMaster/static/css/main.ebe603b0.css.map",
+    "main.2d8bdac1.js.map": "/TaskMaster/static/js/main.2d8bdac1.js.map",
+    "787.63e47474.chunk.js.map": "/TaskMaster/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebe603b0.css",
+    "static/js/main.2d8bdac1.js"
+  ]
+}
